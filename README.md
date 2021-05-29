@@ -10,7 +10,7 @@ In this guide, you will find a summarized set of ways of working that I have lea
 #### Be your most demanding customer
 
 If facing with a design decision, ask yourself: "_What would the customer prefer?_"
-In the real world a customer usually is an external human being that decides to pay for your services. But in the IT world, a customer can be **anything** that is consuming what you produce. A customer could be:
+In the real world a customer usually is an external human being that decides to pay for your services. But in the IT world, a customer can be **anyone** that is consuming what you produce. A customer could be:
 - A person that does not belong to the organization
 - Another team within your organization
 - A teammate

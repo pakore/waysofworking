@@ -27,3 +27,17 @@ Keeping a customer happy is probably the most difficult task when developing sof
 And suddenly I had a list of items to work on that would make the customer happy. I was proud of the quality of my work, which made me happy too. Customers could find what they were looking for right away, so I did not have to invest much time answering questions, which allowed me to focus on the next iterations.
 
 In a nutshell: Imagine what your customer would want and your life will be easier.
+
+#### Data driven beats guess-driven
+
+As an architect, I come up with ideas about how to improve my services all the time. But just because I think they are good ideas, does not mean they really are. You should encourage your team to come up with ideas, but to take a decision these ideas have to be backed up with real data:
+
+- Is your idea improving the critical path / bottleneck? (Throughput)
+- Is your idea solving a relevant use case or is an edge case? (Focus)
+- How much % of customers will benefit from the time invested to implement it? (Impact of change)
+- How much money will spend to implement it and how much money will we save afterwards? (Return of investment)
+- Is your idea solving edge case but this case could be catastrophic for the company? (Risk vs Reward)
+
+Gathering metrics about your software in an automated way is as important as releasing features. Make sure your stakeholders understand this too.
+
+In a nutshell: It's easier to take decisions technically and politically when you have the data to back it up. Make sure you invest in the architecture and the tools to enable this.

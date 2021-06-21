@@ -35,7 +35,7 @@ As an architect, I come up with ideas about how to improve my services all the t
 - Is your idea improving the critical path / bottleneck? (Throughput)
 - Is your idea solving a relevant use case or is an edge case? (Focus)
 - How much % of customers will benefit from the time invested to implement it? (Impact of change)
-- How much money will spend to implement it and how much money will we save afterwards? (Return of investment)
+- How much money will we spend to implement it and how much money will we save afterwards? (Return of investment)
 - Is your idea solving edge case but this case could be catastrophic for the company? (Risk vs Reward)
 
 Gathering metrics about your software in an automated way is as important as releasing features. Make sure your stakeholders understand this too.

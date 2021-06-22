@@ -28,7 +28,7 @@ And suddenly I had a list of items to work on that would make the customer happy
 
 In a nutshell: **Imagine what your customer would want and your life will be easier.**
 
-### Data driven beats guess-driven
+### Data-driven beats guess-driven
 
 As an architect, I come up with ideas about how to improve my services all the time. But just because I think they are good ideas, does not mean they really are. You should encourage your team to come up with ideas, but to take a decision these ideas have to be backed up with real data:
 
@@ -41,3 +41,24 @@ As an architect, I come up with ideas about how to improve my services all the t
 Gathering metrics about your software in an automated way is as important as releasing features. Make sure your stakeholders understand this too.
 
 In a nutshell: **It's easier to take decisions technically and politically when you have the data to back it up. Make sure you invest in the architecture and the tools to enable this.**
+
+### Devops culture: forks into swiss-knives
+
+A service in production requires writing, connecting and maintaining a lot of components: the service's code itself, unit/functional/integration/E2E tests, CI/CD pipelines, documentation, monitoring tools, testing/performance environments, examples, demos, etc. And it is a **team effort** that every piece in the chain works properly.
+E.g:
+- Team members should know how to update and run functional / integration, E2E tests, locally or in a testing environment.
+- Team members should be able to access staging/production monitoring tools.
+- Team members should know how to build a Docker image and deploy it as a k8s pod to create a proof of concept.
+
+In an ideal team, everyone can do everything. The reality is that there will be some specialists on some areas, but in general everyone will be able to do everything with some help and documentation.
+
+Pros:
+- Reduced _single point of failure_, since a team member getting sick does not block other team members.
+- Team members learn new tools and technologies, new challenges always come up and team members motivation increases. Their career paths are also improved since they dominate more tools and technologies.
+- Ownership and responsability of components belongs to the team rather than the one who created it in the first place.
+
+Cons:
+- It requires to invest time to train developers until they become devops.
+- It requires a _devops_ attitude in the team members. Some devs prefer their silo-zone-of-comfort rather than a world of unkown components.
+
+In a nutshell: **Devops culture will improve the peformance and the quality of your team in the long term, but it will cost in the short-term**

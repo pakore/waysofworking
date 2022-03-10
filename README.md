@@ -83,7 +83,7 @@ A team lead / architect / engineering manager goal should be himself/herself red
 - Give team members increased responsabilites over time. Make them go out of their comfort zone, so they keep expanding their skills.
 - Be the safety net of your team, and let them know so. Tell your team that you trust them, and you will be there to help if something goes wrong.
 - Give proper credit, visibility and kudos for effort, good ideas and accomplishments.
-- When (and not "if", because it will) something goes wrong, solve it together. The only fingers you should point are to point out the solution. Make sure you implement an (ideally automated) prevention for that problem.
+- When (and not "if", because it will) something goes wrong, solve it together. The only fingers you should point are to point out the solution. Make sure the team implements an (ideally automated) prevention for that problem.
 - Encourage your team to experiment, research about solutions to current problems, present to other colleagues, do certifications.
 
 In a nutshell: **Trust your team and switch supervision time for more important tasks**

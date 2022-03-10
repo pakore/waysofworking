@@ -3,7 +3,7 @@
 ## Introduction
 
 Over the years, I have worked in different companies and I've seen many ways to develop software and projects. I've always tried to keep the ways that were making me and my team more sucessful, and discarded the ones that for one reason or another, didn't work that well. 
-In this guide, you will find a summarized set of ways of working that I have learnt over the last 15 years. Keep in mind that this is based on my personal experience, so in your particular case or organization, some of them may not make sense.
+In this guide, you will find a summarized set of ways of working that I have learnt over the last 15 years. Keep in mind that this is based on my personal experience, so in your particular case or organization, some of them may or may not make sense.
 
 ## This is the way
 
@@ -17,20 +17,19 @@ In the real world a customer usually is an external human being that decides to 
 - Your line manager
 - Your future self
 
-Keeping a customer happy is probably the most difficult task when developing software. So if you have the chance to make things easier for your customer, usually is the right way to go. For example, I had to create a new service with a new API. I asked myself: "_If I were a customer and I would be deciding if this API was useful for my team, what would help me decide_". I answered myself:
+Keeping a customer happy is probably the most difficult task when developing software. Making things easier for your customer, usually is the right way to go.
+_If I were a customer and I would be deciding if this API was useful for my team, what would help me decide?_".
 - Superb documentation
 - OpenAPI description
 - Interactive examples
 - Some kind of playground
 - An intuitive API
 
-And suddenly I had a list of items to work on that would make the customer happy. I was proud of the quality of my work, which made me happy too. Customers could find what they were looking for right away, so I did not have to invest much time answering questions, which allowed me to focus on the next iterations.
-
-In a nutshell: **Imagine what your customer would want and your life will be easier.**
+In a nutshell: **Focus on the whole customer experience, not only on the product**
 
 ### Data-driven beats guess-driven
 
-As an architect, I come up with ideas about how to improve my services all the time. But just because I think they are good ideas, does not mean they really are. You should encourage your team to come up with ideas, but to take a decision these ideas have to be backed up with real data:
+Architectural decisions can have a big impact down the road. Experience is a great asset, but so are data and statistics. Try to evaluate ideas based on actual facts and not just on guesses:
 
 - Is your idea improving the critical path / bottleneck? (Throughput)
 - Is your idea solving a relevant use case or is an edge case? (Focus)
@@ -40,7 +39,7 @@ As an architect, I come up with ideas about how to improve my services all the t
 
 Gathering metrics about your software in an automated way is as important as releasing features. Make sure your stakeholders understand this too.
 
-In a nutshell: **It's easier to take decisions technically and politically when you have the data to back it up. Make sure you invest in the architecture and the tools to enable this.**
+In a nutshell: **Investing in metrics collection will allow you to take better decisions and justify them to stakeholders.**
 
 ### Devops culture: forks into swiss-knives
 
@@ -61,4 +60,18 @@ Cons:
 - It requires to invest time to train developers until they become devops.
 - It requires a _devops_ attitude in the team members. Some devs prefer their silo-zone-of-comfort rather than a world of unkown components.
 
-In a nutshell: **Devops culture will improve the peformance and the quality of your team in the long term, but it will cost in the short-term**
+In a nutshell: **Devops culture will improve the peformance and the quality of your team in the long term, but it will have a cost in the short-term**
+
+### Automate, automate, automate
+
+There are two main reasons why you should automate a task whenever possible:
+- The obvious one: to save time.
+- The not obvious one: to save your team.
+
+Nothing brings down motivation in a team more than repetitive tasks. Engineers need challenges and freedom for their creativity. Automating a task is interesting, doing the same task every month is not.
+By bringing the culture of automation to the team, it keeps the team motivated and interested and it frees time for innovation and progress in the long run.
+
+_Disclaimer_: `Urgent != Important`. Make sure your engineering manager prioritizes automation tasks based on impact!
+
+In a nutshell: **Automation saves time and lowers attrition**
+

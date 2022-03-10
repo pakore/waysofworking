@@ -18,14 +18,15 @@ In the real world a customer usually is an external human being that decides to 
 - Your future self
 
 Keeping a customer happy is probably the most difficult task when developing software. Making things easier for your customer, usually is the right way to go.
-_If I were a customer and I would be deciding if this API was useful for my team, what would help me decide?_".
+
+For example:_If I were a customer and I would be deciding if this API was useful for my team, what would help me decide?_:
 - Superb documentation
 - OpenAPI description
 - Interactive examples
 - Some kind of playground
 - An intuitive API
 
-In a nutshell: **Focus on the whole customer experience, not only on the product**
+In a nutshell: **Focus on the whole customer experience, not only on the commercial product**
 
 ### Data-driven beats guess-driven
 

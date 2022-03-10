@@ -28,7 +28,7 @@ For example:_If I were a customer and I would be deciding if this API was useful
 
 In a nutshell: **Focus on the whole customer experience, not only on the commercial product**
 
-### Data-driven beats guess-driven
+### Data-driven over guess-driven.
 
 Architectural decisions can have a big impact down the road. Experience is a great asset, but so are data and statistics. Try to evaluate ideas based on actual facts and not just on guesses:
 

@@ -75,3 +75,15 @@ _Disclaimer_: `Urgent != Important`. Make sure your engineering manager prioriti
 
 In a nutshell: **Automation saves time and lowers attrition**
 
+### Trust your team
+
+A team lead / architect / engineering manager goal should be himself/herself redundant. A mature, cohesive and independent team does not need supervision for everyday problems. But to reach this point, a series of steps are needed:
+- Teach the team good practices.
+- Solve problems **with** them, and not **for** them.
+- Give team members increased responsabilites over time. Make them go out of their comfort zone, so they keep expanding their skills.
+- Be the safety net of your team, and let them know so. Tell your team that you trust them, and you will be there to help if something goes wrong.
+- Give proper credit, visibility and kudos for effort, good ideas and accomplishments.
+- When (and not "if", because it will) something goes wrong, solve it together. The only fingers you should point are to point out the solution. Make sure you implement an (ideally automated) prevention for that problem.
+- Encourage your team to experiment, research about solutions to current problems, present to other colleagues, do certifications.
+
+In a nutshell: **Trust your team and switch supervision time for more important tasks**

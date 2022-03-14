@@ -73,7 +73,7 @@ There are two main reasons why you should automate a task whenever possible:
 Nothing brings down motivation in a team more than repetitive tasks. Engineers need challenges and freedom for their creativity. Automating a task is interesting, doing the same task every month is not.
 By bringing the culture of automation to the team, it keeps the team motivated and interested and it frees time for innovation and progress in the long run.
 
-There is also another extra reason to automate: automation code **is documentation**. A clear well structured automation code with proper comments will much better explain/describe a process than a document in an external site (e.g. wiki) that engineers need to remember to update when the process changes.
+There is also an extra reason to automate: automation code **is documentation**. A clear well structured automation code with proper comments will much better explain/describe a process than a document in an external site (e.g. wiki) that engineers need to remember to update when the process changes.
 
 _Disclaimer_: `Urgent != Important`. Make sure your engineering manager prioritizes automation tasks based on impact!
 

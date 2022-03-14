@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Over the years, I have worked in different companies and I've seen many ways to develop software and projects. I've always tried to keep the ways that were making me and my team more sucessful, and discarded the ones that for one reason or another, didn't work that well. 
+Over the years, I have worked in different companies and I've seen many ways to develop software and projects. I've always tried to keep the ways that were making me and my team more successful, and discarded the ones that for one reason or another, didn't work that well.
 In this guide, you will find a summarized set of ways of working that I have learnt over the last 15 years. Keep in mind that this is based on my personal experience, so in your particular case or organization, some of them may or may not make sense.
 
 ## This is the way
@@ -55,13 +55,13 @@ In an ideal team, everyone can do everything. The reality is that there will be 
 Pros:
 - Reduced _single point of failure_, since a team member getting sick does not block other team members.
 - Team members learn new tools and technologies, new challenges always come up and team members motivation increases. Their career paths are also improved since they dominate more tools and technologies.
-- Ownership and responsability of components belongs to the team rather than the one who created it in the first place.
+- Ownership and responsibility of components belongs to the team rather than the one who created it in the first place.
 
 Cons:
 - It requires to invest time to train developers until they become devops.
-- It requires a _devops_ attitude in the team members. Some devs prefer their silo-zone-of-comfort rather than a world of unkown components.
+- It requires a _devops_ attitude in the team members. Some devs prefer their silo-zone-of-comfort rather than a world of unknown components.
 
-In a nutshell: **Devops culture will improve the peformance and the quality of your team in the long term, but it will have a cost in the short-term**
+In a nutshell: **Devops culture will improve the performance and the quality of your team in the long term, but it will have a cost in the short-term**
 
 ### Automate, automate, automate
 
@@ -81,7 +81,7 @@ In a nutshell: **Automation saves time and lowers attrition**
 A team lead / architect / engineering manager goal should be himself/herself redundant. A mature, cohesive and independent team does not need supervision for everyday problems. But to reach this point, a series of steps are needed:
 - Teach the team good practices.
 - Solve problems **with** them, and not **for** them.
-- Give team members increased responsabilites over time. Make them go out of their comfort zone, so they keep expanding their skills.
+- Give team members increased responsibilities over time. Make them go out of their comfort zone, so they keep expanding their skills.
 - Be the safety net of your team, and let them know so. Tell your team that you trust them, and you will be there to help if something goes wrong.
 - Give proper credit, visibility and kudos for effort, good ideas and accomplishments.
 - When (and not "if", because it will) something goes wrong, solve it together. The only fingers you should point are to point out the solution. Make sure the team implements an (ideally automated) prevention for that problem.

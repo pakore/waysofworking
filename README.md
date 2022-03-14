@@ -69,12 +69,11 @@ In a nutshell: **Devops culture will improve the performance and the quality of 
 There are two main reasons why you should automate a task whenever possible:
 - The obvious one: to save time.
 - The not obvious one: to save your team.
-- The even less obvious one: automation code **is documentation**. A clear well structured automation code
-  will much better explain/describe a process than thousand words in a wiki page.
-  It does not forbid human readable side explanations but will much better make the intent clear and precise.
 
 Nothing brings down motivation in a team more than repetitive tasks. Engineers need challenges and freedom for their creativity. Automating a task is interesting, doing the same task every month is not.
 By bringing the culture of automation to the team, it keeps the team motivated and interested and it frees time for innovation and progress in the long run.
+
+There is also another extra reason to automate: automation code **is documentation**. A clear well structured automation code with proper comments will much better explain/describe a process than a document in an external site (e.g. wiki) that engineers need to remember to update when the process changes.
 
 _Disclaimer_: `Urgent != Important`. Make sure your engineering manager prioritizes automation tasks based on impact!
 
